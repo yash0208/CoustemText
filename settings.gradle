@@ -1,0 +1,2 @@
+rootProject.name='CoustemText'
+include ':app'
